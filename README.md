@@ -4,13 +4,14 @@
 
 #### My name is Zander
 
-I make websites and other things for the web. I deal with design systems by day and one too many side-projects by night. Feel free to say hello, [fork my code](https://github.com/mrmartineau/), [read my blog](https://zander.wtf/projects) or share [my tweets](https://twitter.com/mrmartineau).
+I make websites and other things for the web. I build apps and design systems by day and [try to watch movies](https://letterboxd.com/MrMartineau/) by night. Feel free to say [hello](https://twitter.com/mrmartineau), [fork my code](https://github.com/mrmartineau/) or [read my blog](https://zander.wtf/blog).
 
-- 🔭 I’m currently working for [Digital Futures](https://digitalfutures.com). Before that, [Heights](https://yourheights.com), [Curve](https://www.curve.com/en-gb/) and [FairFX](https://fairfx.com) amongst others..
+- 🔭 I’m currently working (as a contractor) for [Digital Futures](https://digitalfutures.com). Before that, [Heights](https://yourheights.com), [Curve](https://www.curve.com/en-gb/) and [FairFX](https://fairfx.com) amongst others..
 - 🌱 I’m currently learning [Svelte](https://svelte.dev)
-- 💬 Ask me about design systems
+- 💬 Ask me about design systems or what I think of React
 - 📫 How to reach me: [Twitter](https://twitter.com/mrmartineau)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to work as an assistant cameraman.
+- ⚡ Fun fact: I used to be an assistant cameraman and worked on many TV shows, documentaries and [one movie](https://letterboxd.com/film/scenes-of-a-sexual-nature/)
+- ❤️ Salted caramel
 
 Checkout my blog/portfolio at [zander.wtf](https://zander.wtf)
