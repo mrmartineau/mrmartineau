@@ -7,7 +7,7 @@
 I make websites and other things for the web. I build apps and design systems by day and [try to watch movies](https://letterboxd.com/MrMartineau/) by night. Feel free to say [hello](https://twitter.com/mrmartineau), [fork my code](https://github.com/mrmartineau/) or [read my blog](https://zander.wtf/blog).
 
 - 🔭 I’m currently working (as a contractor) for [Babylon Health](https://www.babylonhealth.com). Before that, [Digital Futures](https://digitalfutures.com), [Heights](https://yourheights.com), [Curve](https://www.curve.com/en-gb/) and [FairFX](https://fairfx.com) amongst others..
-- 🌱 I’m currently learning [Svelte and SvelteKit](https://svelte.dev) 
+- 🌱 I’m currently learning ~[Svelte and SvelteKit](https://svelte.dev)~ Postgres (with Supabase)
 - 💬 Ask me about design systems or what I think of React
 - 📫 How to reach me: [Twitter](https://twitter.com/mrmartineau)
 - 😄 Pronouns: he/him/his
