@@ -12,6 +12,13 @@ I make websites and other things for the web. I build apps and design systems by
 - 📫 How to reach me: [Mastodon](https://toot.cafe/@zander)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I used to be an assistant cameraman and worked on many TV shows, documentaries and [one movie](https://letterboxd.com/film/scenes-of-a-sexual-nature/)
-- ❤️ Salted caramel
+
+### Interests and hobbies
+- 🍿 Movies
+- 🏌️‍♂️ Golf
+- 🚵‍♂️ Mountain biking
+- 🍖🔥 BBQ
+- 🥁 Drumming
+- 💖 Salted Caramel
 
 Checkout my blog/portfolio at [zander.wtf](https://zander.wtf)
