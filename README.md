@@ -6,7 +6,7 @@
 
 I make websites and other things for the web. I build apps and design systems by day and [try to watch movies](https://letterboxd.com/MrMartineau/) by night. Feel free to say [hello](https://toot.cafe/@zander), [fork my code](https://github.com/mrmartineau/) or [read my blog](https://zander.wtf/blog).
 
-- 🔭 I’m currently working (as a contractor) for [Utopia Music](https://utopiamusic.com/). Before that, [Babylon Health](https://www.babylonhealth.com), [Digital Futures](https://digitalfutures.com), [Heights](https://yourheights.com), [Curve](https://www.curve.com/en-gb/) and [FairFX](https://fairfx.com) amongst others..
+- 🔭 I’m currently working (as a contractor) for [Fathom](https://www.fathomlondon.com/). Before that, [Utopia Music](https://utopiamusic.com/), [Babylon Health](https://www.babylonhealth.com), [Digital Futures](https://digitalfutures.com), [Heights](https://yourheights.com), [Curve](https://www.curve.com/en-gb/) and [FairFX](https://fairfx.com) amongst others..
 - 🌱 This year, I've been learning [Remix](https://remix.run), [Svelte and SvelteKit](https://svelte.dev) and PostgreSQL (and auth with Supabase) and a whole lot more
 - 💬 Ask me about design systems or what I think of React
 - 📫 How to reach me: [Mastodon](https://toot.cafe/@zander)
