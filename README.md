@@ -24,7 +24,7 @@
   - **[react-status-bar](https://react-status-bar.zander.wtf)** — a portal-based status bar system for React
   - **[Spotify Favourites](https://lab.zander.wtf/spotify-favourites/)** — find your *actual* favourite artists, not just the biggest play counts
   - **[Lang Compare](https://lang-compare.zander.wtf)** — programming language features side-by-side
-  - **[Surround for Zed](https://github.com/mrmartineau/zed-surround)** — a Zed extension written in Rust
+  - **[Surround for Zed](https://github.com/mrmartineau/zed-surround)** — a Zed extension written in Rust. Never made it into the extension store, so it's a work in progress: clone the repo and install it locally to use it
   - npm packages like [strifx](https://www.npmjs.com/package/@mrmartineau/strifx), [xtractr](https://www.npmjs.com/package/@mrmartineau/xtractr), [url-merge](https://github.com/mrmartineau/url-merge) and [kit](https://github.com/mrmartineau/kit)
   - my various [Raycast extensions](https://github.com/mrmartineau/raycast-extensions)
 
@@ -47,7 +47,7 @@ Many of these were built while putting AI coding agents (Claude Code, Cursor, Am
 - 🚀 Most recently I've been a Staff Software Engineer and web team lead at [Dare](https://dare.global), maintaining and evolving their energy trading platform and building a new component library.
 - I've worked for a wide variety of startups, agencies and companies like [Fathom](https://www.fathomlondon.com/), [Utopia Music](https://utopiamusic.com/), [Babylon Health](https://www.babylonhealth.com), [Digital Futures](https://digitalfutures.com), [Heights](https://yourheights.com), [Curve](https://www.curve.com/en-gb/) and [FairFX](https://fairfx.com) amongst others.
 - 💬 Ask me about design systems, AI-assisted development, or what I think of React
-- 📫 How to reach me: [email](mailto:hi@zander.wtf) or [Mastodon](https://toot.cafe/@zander)
+- 📫 How to reach me: [email](mailto:hi@zander.wtf) or [Bluesky](https://bsky.app/profile/zander.wtf)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I used to be an assistant cameraman and worked on many TV shows, documentaries and [one movie](https://letterboxd.com/film/scenes-of-a-sexual-nature/)
 
