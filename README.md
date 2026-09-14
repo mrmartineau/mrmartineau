@@ -33,23 +33,23 @@ Many of these were built while putting AI coding agents (Claude Code, Cursor, Am
 ### ✍️ Recently on my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Moons now available on the App Store](https://zander.wtf/blog/moons/) — My first iOS app is out. Twelve people you want to stay close to, in orbit around you, drifting further out the longer you go without speaking
+- [Claude, meet my Obsidian vault](https://zander.wtf/blog/obsidian-mcp-pi/) — How I gave the Claude app on my phone read and write access to my Obsidian notes, using a Raspberry Pi, Obsidian Sync, a 100-line MCP server and Tailscale Funnel
+- [This site now comes in four flavours](https://zander.wtf/blog/four-flavours/) — The same pages served as an ordinary website, a classic-Mac desktop, a keyboard-only terminal and plain text with no stylesheets, picked by a URL prefix
 - [What should actually go in your CLAUDE.md?](https://zander.wtf/blog/claude-md-agents-md/) — The guidance contradicts itself and almost none of it is dated, so here's a map of who says what, what the research supports, and how AGENTS.md fits in
 - [astro-d1-search: site search for Astro in one integration](https://zander.wtf/blog/astro-d1-search-package/) — I extracted the search implementation I built for this site into an npm package, so you can add full-text search to your own Astro site
 - [Building site search with Astro and Cloudflare D1](https://zander.wtf/blog/astro-cloudflare-d1-search/) — Replacing Algolia on this very website with a self-owned, full-text search API built on Cloudflare D1 and SQLite FTS5, searchable from the site itself and from Raycast
-- [text-wrap, overflow-wrap and word-break: which one do I actually want?](https://zander.wtf/blog/css-text-wrapping/) — A practical guide to CSS's confusingly-similar text wrapping and breaking properties, and when to reach for each one
-- [The Otter ecosystem](https://zander.wtf/blog/otter-ecosystem/) — One bookmarking app, many faces. A tour of the web app, browser extensions, iOS share extension, Raycast extension, terminal UI, and desktop experiment that make up Otter
-- [The ZUI ecosystem](https://zander.wtf/blog/zui-ecosystem/) — The tooling that has grown up around my CSS-first UI library: framework components, a VS Code extension, a Raycast extension, and a publishable Astro docs theme
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔨 Recently shipped
 
 <!-- WORKLOG-LIST:START -->
+- [shotframe](https://zander.wtf/blog/2026-09-08-shotframe/) — A small CLI that turns raw simulator captures into App Store screenshots: a device frame, a heading and a line of copy, at exactly the size the store wants
 - [zed-ios-app-starter](https://zander.wtf/blog/2026-08-12-zed-ios-app-starter/) — A SwiftUI and SwiftData starter for native iOS apps: tabs, onboarding, preferences and theming, with no third-party dependencies
 - [astro-d1-search released on npm](https://zander.wtf/blog/2026-08-02-astro-d1-search/) — My site search is now an Astro integration on npm, and this site runs on the package instead of its own copy of the code
 - [A native iOS app for Otter](https://zander.wtf/blog/2026-08-02-otter-native-ios-app/) — A native SwiftUI app for Otter with no web views anywhere, disk-cached bookmarks, and saving from the share sheet, deep links or Shortcuts
 - [Site-wide search + Raycast extension](https://zander.wtf/blog/2026-07-20-site-search/) — Full-text search backed by Cloudflare D1 and FTS5 with no third-party service, plus a Raycast extension built on its JSON API
 - [Lab experiments + ZUI playground](https://zander.wtf/blog/2026-07-17-lab-and-zui-updates/) — New lab experiments including an endless, self-generating page, which also became a procedural playground in the ZUI docs
-- [Letterboxd watchlist for Radarr](https://zander.wtf/blog/2026-07-13-letterboxd-radarr/) — A Radarr-compatible endpoint that serves my Letterboxd watchlist as an import list. Add a film, and it's ready to grab
 <!-- WORKLOG-LIST:END -->
 
 Both lists update automatically from [my feeds](https://zander.wtf/feeds/).
