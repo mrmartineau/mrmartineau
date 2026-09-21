@@ -33,12 +33,12 @@ Many of these were built while putting AI coding agents (Claude Code, Cursor, Am
 ### ✍️ Recently on my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Moons 2.2](https://zander.wtf/blog/moons-2-2/) — The widget is the orbit now, you can pick how each person gets called, mis-logged catch-ups can be deleted, and shaking the phone re-deals everyone
+- [Time Tutor now available on the App Store](https://zander.wtf/blog/time-tutor/) — My second iOS app is out. A clock face that teaches the 12-hour and 24-hour clock at the same time, and it started life as a web page I built for my son
 - [Moons now available on the App Store](https://zander.wtf/blog/moons/) — My first iOS app is out. Twelve people you want to stay close to, in orbit around you, drifting further out the longer you go without speaking
 - [Claude, meet my Obsidian vault](https://zander.wtf/blog/obsidian-mcp-pi/) — How I gave the Claude app on my phone read and write access to my Obsidian notes, using a Raspberry Pi, Obsidian Sync, a 100-line MCP server and Tailscale Funnel
 - [This site now comes in four flavours](https://zander.wtf/blog/four-flavours/) — The same pages served as an ordinary website, a classic-Mac desktop, a keyboard-only terminal and plain text with no stylesheets, picked by a URL prefix
 - [What should actually go in your CLAUDE.md?](https://zander.wtf/blog/claude-md-agents-md/) — The guidance contradicts itself and almost none of it is dated, so here's a map of who says what, what the research supports, and how AGENTS.md fits in
-- [astro-d1-search: site search for Astro in one integration](https://zander.wtf/blog/astro-d1-search-package/) — I extracted the search implementation I built for this site into an npm package, so you can add full-text search to your own Astro site
-- [Building site search with Astro and Cloudflare D1](https://zander.wtf/blog/astro-cloudflare-d1-search/) — Replacing Algolia on this very website with a self-owned, full-text search API built on Cloudflare D1 and SQLite FTS5, searchable from the site itself and from Raycast
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔨 Recently shipped
