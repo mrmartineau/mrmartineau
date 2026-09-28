@@ -33,12 +33,12 @@ Many of these were built while putting AI coding agents (Claude Code, Cursor, Am
 ### ✍️ Recently on my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Reps: Wordle, but with JavaScript](https://zander.wtf/blog/reps/) — A write-up of the interesting parts of the daily JavaScript puzzle game I built in June. Puzzles as YAML data, a Web Worker sandbox, and a CI pipeline that deploys a playable preview of every submitted puzzle
+- [Green Claws now available on the App Store](https://zander.wtf/blog/green-claws/) — My third iOS app is out. How a plant list I made because I'm a bad gardener turned into a microsite anyone can generate, and then into Green Claws, an iOS gardening app for the UK and Ireland
 - [Moons 2.2](https://zander.wtf/blog/moons-2-2/) — The widget is the orbit now, you can pick how each person gets called, mis-logged catch-ups can be deleted, and shaking the phone re-deals everyone
 - [Time Tutor now available on the App Store](https://zander.wtf/blog/time-tutor/) — My second iOS app is out. A clock face that teaches the 12-hour and 24-hour clock at the same time, and it started life as a web page I built for my son
 - [Moons now available on the App Store](https://zander.wtf/blog/moons/) — My first iOS app is out. Twelve people you want to stay close to, in orbit around you, drifting further out the longer you go without speaking
 - [Claude, meet my Obsidian vault](https://zander.wtf/blog/obsidian-mcp-pi/) — How I gave the Claude app on my phone read and write access to my Obsidian notes, using a Raspberry Pi, Obsidian Sync, a 100-line MCP server and Tailscale Funnel
-- [This site now comes in four flavours](https://zander.wtf/blog/four-flavours/) — The same pages served as an ordinary website, a classic-Mac desktop, a keyboard-only terminal and plain text with no stylesheets, picked by a URL prefix
-- [What should actually go in your CLAUDE.md?](https://zander.wtf/blog/claude-md-agents-md/) — The guidance contradicts itself and almost none of it is dated, so here's a map of who says what, what the research supports, and how AGENTS.md fits in
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔨 Recently shipped
