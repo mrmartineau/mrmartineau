@@ -5,7 +5,7 @@
 #### My name is Zander and I make things for the web.
 
 > [!IMPORTANT]
-> 💼 **I'm looking for my next role!** I'm a product engineer with 18 years of experience, specialising in front-end development and design systems, and I'm available for work from **mid-July 2026**. If you think I'd be a good fit for your team, [email me](mailto:hi@zander.wtf) or take a look at [zander.wtf](https://zander.wtf) first.
+> 💼 **I'm looking for my next role!** I'm a product engineer with 18 years of experience, specialising in front-end development and design systems, and I'm **available now**. If you think I'd be a good fit for your team, [email me](mailto:hi@zander.wtf) or take a look at [zander.wtf](https://zander.wtf) first.
 
 ### 🛠 What I've been working on recently
 
