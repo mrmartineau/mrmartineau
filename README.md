@@ -33,23 +33,23 @@ Many of these were built while putting AI coding agents (Claude Code, Cursor, Am
 ### ✍️ Recently on my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing astro-entry-meta: drafts, reading time and git info for Astro collections](https://zander.wtf/blog/astro-entry-meta/) — A new package that adds drafts, scheduled posts, reading time and git info to Astro content collections, and replaces astro-git-dates
 - [Introducing astro-d1-reactions: hearts, reads and highlights for Astro in one integration](https://zander.wtf/blog/astro-d1-reactions/) — A new package to add hearts, reads, reader highlights and a stats page to your own Astro site
 - [Introducing Lil' Debugger](https://zander.wtf/blog/lil-debugger/) — I've hacked the same debug overlay into almost every job I've had, so I finally made it a proper package that shows the data behind any element when you hold Ctrl+Shift
 - [Reps: Wordle, but with JavaScript](https://zander.wtf/blog/reps/) — A write-up of the interesting parts of the daily JavaScript puzzle game I built in June. Puzzles as YAML data, a Web Worker sandbox, and a CI pipeline that deploys a playable preview of every submitted puzzle
 - [Introducing Green Claws](https://zander.wtf/blog/green-claws/) — My third iOS app is out. How a plant list I made because I'm a bad gardener turned into a microsite anyone can generate, and then into Green Claws, an iOS gardening app for the UK and Ireland
 - [Moons 2.2](https://zander.wtf/blog/moons-2-2/) — The widget is the orbit now, you can pick how each person gets called, mis-logged catch-ups can be deleted, and shaking the phone re-deals everyone
-- [Introducing Time Tutor](https://zander.wtf/blog/time-tutor/) — My second iOS app is out. A clock face that teaches the 12-hour and 24-hour clock at the same time, and it started life as a web page I built for my son
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔨 Recently shipped
 
 <!-- WORKLOG-LIST:START -->
+- [PR Elsewhere](https://zander.wtf/blog/2026-11-01-pr-elsewhere/) — PR Elsewhere is a Chrome extension that adds a View in menu to GitHub pull requests, and it's now on the Chrome Web Store
+- [Watts Up](https://zander.wtf/blog/2026-10-31-watts-up/) — Watts Up is a Raycast extension that shows your MacBook's charger wattage, charging power and battery health, and it's now on the Raycast store
+- [Keyboard shortcuts](https://zander.wtf/blog/2026-10-26-keyboard-shortcuts/) — You can now get around this site with single-letter keys, and pressing ? shows the full list
 - [No more hand-edited dates](https://zander.wtf/blog/2026-10-01-git-dates/) — A new package, astro-git-dates, sets a post or code note's date from its last commit at build time
 - [Moons speaks six languages](https://zander.wtf/blog/2026-09-28-moons-2-4-languages/) — Moons 2.4 is out in French, German, Spanish, Portuguese and Japanese as well as English, with a feedback link for when a translation reads wrong
 - [A bedside screen for the time, my trains and the weather](https://zander.wtf/blog/2026-09-23-hyperpixel-bedroom-display/) — A Raspberry Pi Zero W and a round 480×480 touch screen by the bed, showing the time, my next trains, the weather and the sun
-- [Quick save and smarter tags in Otter](https://zander.wtf/blog/2026-09-22-otter-quick-save/) — Saving to Otter is now one tap from the browser extension and the iOS share sheet, and auto-tagging no longer invents tags
-- [Otter Reader](https://zander.wtf/blog/2026-09-16-otter-reader/) — The native Otter iOS app is now Otter Reader, a read-later list that works offline, with RSS feeds that run on the phone and need no account
-- [shotframe](https://zander.wtf/blog/2026-09-08-shotframe/) — A small CLI that turns raw simulator captures into App Store screenshots: a device frame, a heading and a line of copy, at exactly the size the store wants
 <!-- WORKLOG-LIST:END -->
 
 Both lists update automatically from [my feeds](https://zander.wtf/feeds/).
